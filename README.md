@@ -11,6 +11,11 @@ improvement — I bring that reliability-and-documentation mindset to code.
 Automation Tester · AI Automation Engineer
 
 ### Featured work
+- **[ai-log-triage](https://github.com/MatrymLabs/ai-log-triage)** — a FastAPI service
+  that turns a raw log or error into a structured triage assessment using the **Claude
+  API with schema-enforced JSON output**. Built around a mockable LLM boundary, so the
+  whole app is tested end-to-end in CI with no API key. 95% coverage, Docker, CI.
+  *Proof I build with AI as a dependable component, not a chat box.*
 - **[codeforge](https://github.com/MatrymLabs/codeforge)** — a Python-native multiplayer
   MUD engine. **184 tests** (incl. property-based), **90% coverage**, CI with security
   scanning, ADRs, and a live terminal demo. *My proof of engineering discipline.*
@@ -22,5 +27,5 @@ Automation Tester · AI Automation Engineer
 Conventional commits · feature-branch → CI → review · tests for behavior **and** refusal
 paths · decisions recorded as ADRs · documented AI guardrails (`docs/AI_WORKFLOW.md`).
 
-**Skills:** Python · pytest · Hypothesis · FastAPI · SQLAlchemy · Git & GitHub Actions ·
-Docker · ruff / mypy · bandit · TDD · REST APIs
+**Skills:** Python · pytest · Hypothesis · FastAPI · Pydantic · Claude API · SQLAlchemy ·
+Git & GitHub Actions · Docker · ruff / mypy · bandit · TDD · REST APIs
