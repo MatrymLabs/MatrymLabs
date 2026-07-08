@@ -1,0 +1,26 @@
+# Hi, I'm Josh — AI-assisted Python developer & process-minded engineer
+
+I build practical software around **automation, testing, documentation, and reusable
+components**. I use AI as a pair-programming, architecture, and review tool — and I
+prove the work with **tests, CI, clean Git history, and working demos.**
+
+Background in engineering, operations, training, cybersecurity, and process
+improvement — I bring that reliability-and-documentation mindset to code.
+
+🎯 **Open to entry-level remote roles:** Junior Python Developer · Python QA /
+Automation Tester · AI Automation Engineer
+
+### Featured work
+- **[codeforge](https://github.com/MatrymLabs/codeforge)** — a Python-native multiplayer
+  MUD engine. **184 tests** (incl. property-based), **90% coverage**, CI with security
+  scanning, ADRs, and a live terminal demo. *My proof of engineering discipline.*
+- **[codeforge-evennia](https://github.com/MatrymLabs/codeforge-evennia)** — the
+  Evennia-based predecessor: kernel/adapter architecture with ADRs. Shows the iteration
+  that led to the rewrite.
+
+### How I work
+Conventional commits · feature-branch → CI → review · tests for behavior **and** refusal
+paths · decisions recorded as ADRs · documented AI guardrails (`docs/AI_WORKFLOW.md`).
+
+**Skills:** Python · pytest · Hypothesis · FastAPI · SQLAlchemy · Git & GitHub Actions ·
+Docker · ruff / mypy · bandit · TDD · REST APIs
