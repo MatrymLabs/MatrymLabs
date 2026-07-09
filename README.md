@@ -10,6 +10,10 @@ improvement — I bring that reliability-and-documentation mindset to code.
 🎯 **Open to entry-level remote roles:** Junior Python Developer · Python QA /
 Automation Tester · AI Automation Engineer
 
+▶ **See my work live, no install:** [**play CodeForge in your browser**](https://codeforge-demo-1kcu.onrender.com/)
+— a real multiplayer MUD engine I built, running over a WebSocket. *(Free host; the
+first load may take ~30s to wake.)*
+
 ### Featured work
 - **[ai-log-triage](https://github.com/MatrymLabs/ai-log-triage)** — a FastAPI service
   that turns a raw log or error into a structured triage assessment using the **Claude
@@ -17,8 +21,11 @@ Automation Tester · AI Automation Engineer
   whole app is tested end-to-end in CI with no API key. 95% coverage, Docker, CI.
   *Proof I build with AI as a dependable component, not a chat box.*
 - **[codeforge](https://github.com/MatrymLabs/codeforge)** — a Python-native multiplayer
-  MUD engine. **184 tests** (incl. property-based), **90% coverage**, CI with security
-  scanning, ADRs, and a live terminal demo. *My proof of engineering discipline.*
+  MUD engine, **[playable live in your browser](https://codeforge-demo-1kcu.onrender.com/)**.
+  **217 tests** (incl. property-based), CI + Docker + security scanning, ADRs, and a
+  [debugging case study](https://github.com/MatrymLabs/codeforge/blob/main/docs/DEBUGGING.md)
+  (an intermittent "impossible" crash cornered with a PTY reproduction).
+  *My proof of engineering discipline.*
 - **[codeforge-evennia](https://github.com/MatrymLabs/codeforge-evennia)** — the
   Evennia-based predecessor: kernel/adapter architecture with ADRs. Shows the iteration
   that led to the rewrite.
