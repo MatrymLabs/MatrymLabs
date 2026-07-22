@@ -36,6 +36,11 @@ first load may take ~30s to wake.)*
 - **[codeforge-console](https://github.com/MatrymLabs/codeforge-console)** (React /
   TypeScript / Next.js): a front end for the CodeForge readiness API. *Full-stack breadth,
   I build the surface as well as the engine.*
+- **[matrym-hashchain](https://github.com/MatrymLabs/matrym-hashchain)** (Python, [on
+  PyPI](https://pypi.org/project/matrym-hashchain/)): a tamper-evident, hash-chained ledger -
+  MIT, stdlib-only, `pip install matrym-hashchain`. A pattern proven inside codeforge, harvested
+  in the consumer's own voice, and shipped as a standalone package. *Proof I turn a pattern
+  proven in one project into a reusable release.*
 
 *A FastAPI + Claude triage service (`ai-log-triage`: schema-enforced JSON output, mockable
 LLM boundary, tested in CI with no API key) and a federal-readiness guidance-tracking system
